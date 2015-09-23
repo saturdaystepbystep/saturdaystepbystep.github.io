@@ -1,7 +1,8 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 30px auto;
+    width: 50%;
     font-family:'Helvetica Neue', 'Helvetica';
+    font-size: 16px;
 }
 nav ul, footer ul {
     font-family:'Helvetica Neue', 'Helvetica' ;
